@@ -1,0 +1,4 @@
+myenv2/   # Virtual environment folder ko ignore karega
+__pycache__/  # Python cache files ko ignore karega
+*.pyc  # Python compiled files ko ignore karega
+db.sqlite3  # Agar SQLite database hai to usse bhi ignore karna chahiye
